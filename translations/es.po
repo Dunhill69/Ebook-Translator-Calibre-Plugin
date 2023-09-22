@@ -29,16 +29,16 @@ msgstr ""
 "específico (opcionalmente manteniendo el contenido original)."
 
 msgid "Extracting ebook content..."
-msgstr ""
+msgstr "Extraer contenido de los libros electrónicos..."
 
 msgid "Filtering ebook content..."
-msgstr ""
+msgstr "Filtrar contenido de libros electrónicos..."
 
 msgid "Preparing user interface..."
-msgstr ""
+msgstr "Preparando interfaz de usuario..."
 
 msgid "Start"
-msgstr ""
+msgstr "Inicio"
 
 msgid "Input Format"
 msgstr "Formato de entrada"
@@ -47,40 +47,40 @@ msgid "Target Language"
 msgstr "Lenguaje a traducir"
 
 msgid "Failed to translate {} paragraph(s), Would you like to retry?"
-msgstr ""
+msgstr "No se pudo traducir {} párrafo(s), ¿Quieres volver a intentarlo?"
 
 msgid "Translation completed."
 msgstr "Traducción completada."
 
 msgid "There is no content that needs to be translated."
-msgstr ""
+msgstr "No hay contenido que deba ser traducido."
 
 msgid "Loading ebook data, please wait..."
-msgstr ""
+msgstr "Cargando datos del libro electrónico, espere..."
 
 msgid "Review"
-msgstr ""
+msgstr "Revisar"
 
 msgid "Log"
-msgstr ""
+msgstr "Registro"
 
 msgid "Errors"
-msgstr ""
+msgstr "Errores"
 
 msgid "Translate All"
-msgstr ""
+msgstr "Traducir todo"
 
 msgid "Translate Selected"
-msgstr ""
+msgstr "Traducir Selección"
 
 msgid "Delete"
 msgstr "Eliminar"
 
 msgid "Stop"
-msgstr ""
+msgstr "Detener"
 
 msgid "Stopping..."
-msgstr ""
+msgstr "Deteniendo..."
 
 msgid "Translation Engine"
 msgstr "Motor de traducción"
@@ -89,46 +89,46 @@ msgid "Source Language"
 msgstr "Lenguaje original"
 
 msgid "Cache Status"
-msgstr ""
+msgstr "Estado de Caché"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Desactivado"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Activado"
 
 msgid "Output Ebook"
-msgstr ""
+msgstr "Libro electrónico de salida"
 
 msgid "Output"
-msgstr ""
+msgstr "Salida"
 
 msgid "Title"
 msgstr "Título"
 
 msgid "Translated"
-msgstr ""
+msgstr "Traducido"
 
 msgid "No translation yet"
-msgstr ""
+msgstr "Aún no hay traducción"
 
 msgid "Save"
 msgstr "Guardar"
 
 msgid "Your changes have been saved."
-msgstr ""
+msgstr "Se han guardado los cambios"
 
 msgid "Translation log"
-msgstr ""
+msgstr "Registro de traducción"
 
 msgid "Error log"
-msgstr ""
+msgstr "Registro de Error"
 
 msgid "Are you sure you want to translate all {:n} paragraphs?"
-msgstr ""
+msgstr "¿Estás seguro de que quieres traducir todos los {:n} párrafos?"
 
 msgid "Are you sure you want to stop the translation progress?"
-msgstr ""
+msgstr "¿Estás seguro de detener el proceso de traducción?"
 
 msgid "Output Format"
 msgstr "Formato de salida"
@@ -143,19 +143,19 @@ msgid "The specified path does not exist."
 msgstr "La ruta especificada no existe."
 
 msgid "Choose a path to store cache files."
-msgstr ""
+msgstr "Elija una ruta para almacenar los archivos de cache"
 
 msgid "Choose"
 msgstr "Elegir"
 
 msgid "Reset"
-msgstr ""
+msgstr "Reiniciar"
 
 msgid "Reveal"
-msgstr ""
+msgstr "Revelar"
 
 msgid "Cache path"
-msgstr ""
+msgstr "Ruta de Cache"
 
 msgid "Clear"
 msgstr "Limpiar"
@@ -163,39 +163,39 @@ msgstr "Limpiar"
 msgid ""
 "All cache(s) will be moved to the default path. Are you sure to proceed?"
 msgstr ""
-
+"Todos los cachés se moverán a la ruta predeterminada. ¿Estás seguro de continuar?"
 msgid "All cache(s) will be moved to the new path. Are you sure to proceed?"
-msgstr ""
+msgstr "Todos los cachés se moverán a la nueva ruta. ¿Estás seguro de continuar?"
 
 msgid "Please choose an empty folder."
-msgstr ""
+msgstr "Elija una carpeta vacía."
 
 msgid "Are you sure you want to clear all caches?"
-msgstr ""
+msgstr "¿Estás seguro de que quieres borrar todos los caches?"
 
 msgid "Are you sure you want to delete the selected cache(s)?"
-msgstr ""
+msgstr "¿Está seguro de que desea eliminar los caches seleccionados?"
 
 msgid "No cache exists."
-msgstr ""
+msgstr "No existe ningún cache."
 
 msgid "Total: {}"
 msgstr "Total: {}"
 
 msgid "Engine"
-msgstr ""
+msgstr "Motor"
 
 msgid "Language"
-msgstr ""
+msgstr "Lenguaje"
 
 msgid "Merge Length"
-msgstr ""
+msgstr "Longitud de fusión"
 
 msgid "Filename"
-msgstr ""
+msgstr "Nombre del archivo"
 
 msgid "Size (MB)"
-msgstr ""
+msgstr "Tamaño (MB)"
 
 msgid "Translating..."
 msgstr "Traduciendo..."
@@ -231,7 +231,7 @@ msgid "The setting has been saved."
 msgstr "La configuración ha sido guardada."
 
 msgid "Ebook Specific"
-msgstr ""
+msgstr "Ebook específico"
 
 msgid "Donate"
 msgstr "Donar"
@@ -243,41 +243,44 @@ msgid "Auto detect"
 msgstr "Detección automática"
 
 msgid "Choose a translation mode for clicking the icon button."
-msgstr ""
+msgstr "Elija un modo de traducción para hacer clic en el botón del icono."
 
 msgid "Advanced Mode"
-msgstr ""
+msgstr "Modo avanzado"
 
 msgid ""
 "This mode provides additional options for the translation process, allowing "
 "for more control and customization."
 msgstr ""
+"Este modo proporciona opciones adicionales para el proceso de traducción, lo que permite "
+"para mayor control y personalización".
 
 msgid "Batch Mode"
-msgstr ""
+msgstr "Por lotes"
 
 msgid ""
 "This mode allows users to translate multiple ebooks at once, streamlining "
 "the translation process and saving time."
 msgstr ""
-
+"Este modo permite a los usuarios traducir varios libros electrónicos a la vez, simplificando "
+"el proceso de traducción y el ahorro de tiempo."
 msgid "Original"
-msgstr ""
+msgstr "Original"
 
 msgid "Status"
-msgstr ""
+msgstr "Estado"
 
 msgid "Untranslated"
-msgstr ""
+msgstr "Sin traducir"
 
 msgid "Select the whole chapter"
-msgstr ""
+msgstr "Seleccione todo el capítulo"
 
 msgid "Select similar paragraphs: {}=\"{}\""
-msgstr ""
+msgstr "Seleccione párrafos similares: {}=\"{}\""
 
 msgid "Retain at least one row."
-msgstr ""
+msgstr "Conserve al menos una fila."
 
 msgid "Baidu"
 msgstr "Baidu"
@@ -337,13 +340,13 @@ msgid "Can not obtain Google API key. Reason: {}"
 msgstr "No se puede obtener la clave de API de Google. Razón: {}"
 
 msgid "Failed get APP key due to an invalid Token."
-msgstr ""
+msgstr "No se pudo obtener la clave de la aplicación debido a un token no válido."
 
 msgid "Failed get APP key due to and invalid Base64 URL."
-msgstr ""
+msgstr "No se pudo obtener la clave de la aplicación debido a una URL Base64 no válida."
 
 msgid "Youdao"
-msgstr "Youdao"
+msgstr "LLegaste"
 
 msgid "Start to convert ebook format:"
 msgstr "Comienza a convertir el formato de libro electrónico:"
@@ -367,13 +370,13 @@ msgid "The translation of \"{}\" was completed. Do you want to open the book?"
 msgstr "La traducción de \"{}\" se completó. ¿Quieres abrir el libro?"
 
 msgid "Translation canceled."
-msgstr ""
+msgstr "Traducción cancelada."
 
 msgid "No available API key."
-msgstr ""
+msgstr "No hay clave API disponible."
 
 msgid "API key was Changed due to previous one unavailable."
-msgstr ""
+msgstr "La clave API se cambió debido a que la anterior no estaba disponible."
 
 msgid "Failed to retrieve data from translate engine API."
 msgstr "No se pudieron recuperar los datos de la API del motor de traducción."
@@ -391,7 +394,7 @@ msgid "Translation (Cached): {}"
 msgstr "Traducción (En caché): {}"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Error: {}"
 
 msgid "Start to translate ebook content"
 msgstr "Comience a traducir contenido de libros electrónicos"
@@ -400,22 +403,22 @@ msgid "Total items: {}"
 msgstr "Articulos totales: {}"
 
 msgid "Character count: {}"
-msgstr ""
+msgstr "Número de letras: {}"
 
 msgid "There is no content need to translate."
 msgstr "No hay necesidad de traducir el contenido."
 
 msgid "Translation failed."
-msgstr ""
+msgstr "La traducción falló."
 
 msgid "General"
-msgstr ""
+msgstr "General"
 
 msgid "Content"
 msgstr "Contenido"
 
 msgid "Preferred Mode"
-msgstr ""
+msgstr "Modo preferido"
 
 msgid "Output Path"
 msgstr "Ruta de salida"
@@ -430,7 +433,7 @@ msgid "Choose a path to store translated book(s)"
 msgstr "Elija una ruta para guardar el/los libro(s) traducido(s)"
 
 msgid "Preferred Format"
-msgstr ""
+msgstr "Formato preferido"
 
 msgid "(Beta)"
 msgstr "(Beta)"
@@ -445,7 +448,7 @@ msgid "The number of characters to translate at once."
 msgstr "El número de caracteres a traducir de una sola vez"
 
 msgid "HTTP Proxy"
-msgstr ""
+msgstr "HTTP Proxy"
 
 msgid "Host"
 msgstr "Host"
@@ -460,10 +463,10 @@ msgid "Cache"
 msgstr "Cache"
 
 msgid "Manage"
-msgstr ""
+msgstr "Administrar"
 
 msgid "Job Log"
-msgstr ""
+msgstr "Registro de trabajo"
 
 msgid "Show translation"
 msgstr "Mostrar traducción"
@@ -472,52 +475,52 @@ msgid "Custom"
 msgstr "Personalizado"
 
 msgid "Tip:"
-msgstr ""
+msgstr "Consejo:"
 
 msgid "API keys will auto-switch if the previous one is unavailable."
-msgstr ""
+msgstr "Las claves API cambiarán automáticamente si la anterior no está disponible."
 
 msgid "Preferred Language"
 msgstr "Idioma preferido"
 
 msgid "HTTP Request"
-msgstr ""
+msgstr "Solicitud HTTP"
 
 msgid "Concurrency limit"
-msgstr ""
+msgstr "Límite de concurrencia"
 
 msgid "Interval (seconds)"
-msgstr ""
+msgstr "Intervalo (segundos)"
 
 msgid "Attempt times"
-msgstr ""
+msgstr "tiempos de intento"
 
 msgid "Timeout (seconds)"
-msgstr ""
+msgstr "Tiempo de espera (segundos)"
 
 msgid "Error count to stop translation"
-msgstr ""
+msgstr "Recuento de errores para detener la traducción"
 
 msgid "Tune ChatGPT"
-msgstr ""
+msgstr "Sintonizar ChatGPT"
 
 msgid "Prompt"
-msgstr ""
+msgstr "Prompt"
 
 msgid "Endpoint"
 msgstr ""
 
 msgid "Model"
-msgstr ""
+msgstr "Modelo"
 
 msgid "Sampling"
-msgstr ""
+msgstr "Muestreo"
 
 msgid "Enable streaming text like in ChatGPT"
-msgstr ""
+msgstr "Habilite la transmisión de texto como en ChatGPT"
 
 msgid "Stream"
-msgstr ""
+msgstr "Transmisión"
 
 msgid "Translation Position"
 msgstr "Posición de la traducción"
@@ -579,25 +582,25 @@ msgid "Exclude paragraph by regular expression pattern. One pattern per line:"
 msgstr "Excluir párrafo por patrón de expresión regular. Un patrón por línea:"
 
 msgid "Ignore Element"
-msgstr ""
+msgstr "Ignorar elemento"
 
 msgid "CSS selectors to exclude elements. One rule per line:"
-msgstr ""
+msgstr "Selectores CSS para excluir elementos. Una regla por línea:"
 
 msgid "e.g."
 msgstr ""
 
 msgid "Ebook Metadata"
-msgstr ""
+msgstr "Metadatos de Ebook"
 
 msgid "Set \"Target Language\" to metadata"
-msgstr ""
+msgstr "Establecer \"Idioma de destino\" en metadatos"
 
 msgid "Subjects of ebook (one subject per line)"
-msgstr ""
+msgstr "Temas del ebook (un tema por línea)"
 
 msgid "Subject"
-msgstr ""
+msgstr "Asignaturas"
 
 msgid "Proxy host or port is incorrect."
 msgstr "El host o puerto proxy es incorrecto."
@@ -621,13 +624,13 @@ msgid "{} is not a valid regular expression."
 msgstr "{} no es una expresión regular válida."
 
 msgid "{} is not a valid CSS seletor."
-msgstr ""
+msgstr "{} no es un selector de CSS válido."
 
 msgid "Translate Book"
 msgstr "Traducir libro"
 
 msgid "Translate Ebook Content"
-msgstr "Traducir contenido de libros electrónicos"
+msgstr "Traducir contenido del ebook"
 
 msgid "Setting"
 msgstr "Configuración"
@@ -636,22 +639,22 @@ msgid "About"
 msgstr "Acerca"
 
 msgid "Please choose one single book."
-msgstr ""
+msgstr "Por favor elige un solo libro."
 
 msgid "Please choose at least one book."
 msgstr "Por favor, elija al menos un libro."
 
 msgid "Cannot change setting while book(s) are under translation."
-msgstr ""
+msgstr "No se puede cambiar la configuración mientras los libros están en traducción."
 
 msgid "Cannot manage cache while book(s) are under translation."
-msgstr ""
+msgstr "No se puede administrar el cache mientras los libros están en traducción."
 
 msgid "Cache Manager"
-msgstr ""
+msgstr "Administrador de cache"
 
 msgid "Choose Translation Mode"
-msgstr ""
+msgstr "Elija el modo de traducción"
 
 #~ msgid "Choose..."
 #~ msgstr "Elegir..."
